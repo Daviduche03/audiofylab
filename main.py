@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 
-AI21_API_KEY = "iXThS2R7XxGxo6ABgrqN0HLlzj7ET2fw"
+AI21_API_KEY = ""
 
 # template = """Question: {question}
 
